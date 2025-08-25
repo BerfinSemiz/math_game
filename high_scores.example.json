@@ -1,0 +1,23 @@
+[
+  {
+    "PlayerName": "Ahmet",
+    "Level": 3,
+    "Score": 180,
+    "Stars": 3,
+    "Date": "2024-01-15T10:30:00"
+  },
+  {
+    "PlayerName": "Ayşe",
+    "Level": 2,
+    "Score": 120,
+    "Stars": 2,
+    "Date": "2024-01-14T15:45:00"
+  },
+  {
+    "PlayerName": "Mehmet",
+    "Level": 1,
+    "Score": 80,
+    "Stars": 1,
+    "Date": "2024-01-13T09:20:00"
+  }
+]

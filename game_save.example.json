@@ -1,0 +1,40 @@
+{
+  "CurrentGameState": {
+    "CurrentLevel": 1,
+    "CurrentQuestionIndex": 0,
+    "CurrentBlock": 1,
+    "TimeRemaining": 300,
+    "TotalScore": 0,
+    "Questions": [],
+    "Levels": [
+      {
+        "LevelNumber": 1,
+        "TimeLimit": 300,
+        "MinNumber": 1,
+        "MaxNumber": 10,
+        "Operations": ["+", "-"],
+        "IsUnlocked": true,
+        "CorrectAnswers": 0,
+        "Stars": 0,
+        "LastPlayed": null
+      },
+      {
+        "LevelNumber": 2,
+        "TimeLimit": 360,
+        "MinNumber": 1,
+        "MaxNumber": 20,
+        "Operations": ["+", "-", "*"],
+        "IsUnlocked": false,
+        "CorrectAnswers": 0,
+        "Stars": 0,
+        "LastPlayed": null
+      }
+    ]
+  },
+  "Settings": {
+    "PlayerName": "Oyuncu Adı",
+    "RandomOperations": true,
+    "SelectedOperation": "all"
+  },
+  "HighScores": []
+}
